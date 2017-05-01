@@ -24,11 +24,11 @@ import (
 
 	_ "net/http/pprof"
 
-	"github.com/fiorix/go-diameter/diam"
-	"github.com/fiorix/go-diameter/diam/avp"
-	"github.com/fiorix/go-diameter/diam/datatype"
-	"github.com/fiorix/go-diameter/diam/dict"
-	"github.com/fiorix/go-diameter/diam/sm"
+	"github.com/hippocampi/go-diameter/diam"
+	"github.com/hippocampi/go-diameter/diam/avp"
+	"github.com/hippocampi/go-diameter/diam/datatype"
+	"github.com/hippocampi/go-diameter/diam/dict"
+	"github.com/hippocampi/go-diameter/diam/sm"
 )
 
 func main() {

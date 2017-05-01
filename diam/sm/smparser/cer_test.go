@@ -8,10 +8,10 @@ import (
 	//"strings"
 	"testing"
 
-	"github.com/fiorix/go-diameter/diam"
-	"github.com/fiorix/go-diameter/diam/avp"
-	"github.com/fiorix/go-diameter/diam/datatype"
-	"github.com/fiorix/go-diameter/diam/dict"
+	"github.com/hippocampi/go-diameter/diam"
+	"github.com/hippocampi/go-diameter/diam/avp"
+	"github.com/hippocampi/go-diameter/diam/datatype"
+	"github.com/hippocampi/go-diameter/diam/dict"
 )
 
 // These tests use a custom dictionary loaded by sm_test.go.

@@ -11,7 +11,7 @@ import (
 	"net"
 	"time"
 
-	"github.com/fiorix/go-diameter/diam/dict"
+	"github.com/hippocampi/go-diameter/diam/dict"
 )
 
 // Dial connects to the peer pointed to by addr and returns the Conn that

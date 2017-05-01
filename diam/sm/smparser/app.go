@@ -5,10 +5,10 @@
 package smparser
 
 import (
-	"github.com/fiorix/go-diameter/diam"
-	"github.com/fiorix/go-diameter/diam/avp"
-	"github.com/fiorix/go-diameter/diam/datatype"
-	"github.com/fiorix/go-diameter/diam/dict"
+	"github.com/hippocampi/go-diameter/diam"
+	"github.com/hippocampi/go-diameter/diam/avp"
+	"github.com/hippocampi/go-diameter/diam/datatype"
+	"github.com/hippocampi/go-diameter/diam/dict"
 )
 
 // Role stores information whether SM is initialized as a Client or a Server

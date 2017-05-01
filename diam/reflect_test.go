@@ -10,8 +10,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/fiorix/go-diameter/diam/datatype"
-	"github.com/fiorix/go-diameter/diam/dict"
+	"github.com/hippocampi/go-diameter/diam/datatype"
+	"github.com/hippocampi/go-diameter/diam/dict"
 )
 
 func TestUnmarshalAVP(t *testing.T) {
